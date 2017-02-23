@@ -88,3 +88,10 @@ ENV/
 # Rope project settings
 .ropeproject
 >>>>>>> 913133fa3912e64a0f0d77c56e1fe849af0fa007
+
+# Emacs generated files
+\#*
+.#*
+*~
+
+
